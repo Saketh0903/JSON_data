@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "Sam",
+      "email": "sam@gmail.com",
+      "password": "$2a$05$wtD/r9ptl.RD49BDICHd4OaxYawwKrXWzX.F38jS8hawMIGeV3Kt.",
+      "year": "Second",
+      "branch": "CSE",
+      "id": 1
+    }
+  ]
+}
